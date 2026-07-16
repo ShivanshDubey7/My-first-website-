@@ -28,5 +28,25 @@ To automate fruit identification using computer vision and deep learning, making
 - Deploy as a web application
 - Real-time camera detection
 
-## 👨‍💻 Author
-**Devansh Dubey**
+
+# 🤖 Supportive Call Chatbot
+
+## 📌 About
+The Supportive Call Chatbot is an AI-powered conversational assistant designed to provide users with supportive and empathetic responses. It can engage in meaningful conversations, answer queries, and assist users with general guidance in a friendly and interactive manner.
+
+## 🚀 Features
+- Natural language conversations
+- Context-aware responses
+- User-friendly interface
+- Fast and interactive communication
+- Easily customizable for different use cases
+
+## 🛠️ Technologies Used
+- Python
+- NLP (Natural Language Processing)
+- Machine Learning / AI
+- Streamlit (if applicable)
+- OpenAI API / LLM (if used)
+
+## 🎯 Project Goal
+To build an intelligent chatbot that enhances user interaction by providing helpful, supportive, and human-like conversations using AI.
